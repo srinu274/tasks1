@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Software Builds\Building\Temporary\FlickrApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="D:\Software Builds\Building\Temporary\FlickrApp\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.2.1_feb0dca0423f23b168707aa5eedc79bc0e34ff86.jar" />
+    </item>
+    <item
+        jar="D:\Software Builds\Building\Temporary\FlickrApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\Software Builds\Building\Temporary\FlickrApp\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.2.1_3c1b03b38afe9717515fe8a638eb7d5772608059.jar" />
+    </item>
+    <item
+        jar="D:\Software Builds\Building\Temporary\FlickrApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="D:\Software Builds\Building\Temporary\FlickrApp\app\build\intermediates\pre-dexed\release\internal_impl-23.2.1_7e864e5345022902660e5887778ea52ae96a4793.jar" />
+    </item>
+    <item
+        jar="D:\Software Builds\Building\Temporary\FlickrApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="D:\Software Builds\Building\Temporary\FlickrApp\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-23.2.1_fdd7bc5f437ff55609eb3222a884543ca8a5026a.jar" />
+    </item>
+    <item
+        jar="D:\Software Builds\Building\Temporary\FlickrApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\Software Builds\Building\Temporary\FlickrApp\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-23.2.1_3d60aba2d4f83ac01c1822e872f3eb94ed4edf38.jar" />
+    </item>
+    <item
+        jar="D:\Software Builds\Building\Temporary\FlickrApp\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="D:\Software Builds\Building\Temporary\FlickrApp\app\build\intermediates\pre-dexed\release\com.android.support-design-23.2.1_5e6b03e28209bf1197eab8e657a62777ee84e446.jar" />
+    </item>
+    <item
+        jar="C:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\Software Builds\Building\Temporary\FlickrApp\app\build\intermediates\pre-dexed\release\support-annotations-23.2.1_9433f1cccada67c5d7f469cb9791f31171e6b0a9.jar" />
+    </item>
+    <item
+        jar="D:\Software Builds\Building\Temporary\FlickrApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="D:\Software Builds\Building\Temporary\FlickrApp\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-23.2.1_371cf47c3472e9fb861df18fb629d330bf552b79.jar" />
+    </item>
+
+</items>
